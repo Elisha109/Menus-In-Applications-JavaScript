@@ -61,7 +61,7 @@ function home() {
 
 function about() {
   titleEle.innerHTML = "About";
-  nameEle.innerHTML = "Sarah Ryan";
+  nameEle.innerHTML = "Elisha Agboola";
   counterEle.innerHTML = "";
   increaseCounterButton.style.visibility = "hidden";
 }
